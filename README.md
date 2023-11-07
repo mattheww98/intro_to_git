@@ -5,3 +5,4 @@ This is an update.
 At least it should be...
 Let's make another change
 We've also added a [newfile](./newfile.md)
+Now let's add a link to the [other file](./file3.md)
